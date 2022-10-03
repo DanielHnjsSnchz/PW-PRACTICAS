@@ -1,0 +1,5 @@
+Para el uso del patrón factoría con los archivos que tenemos debemos:
+-Una clase abstracta CreadorReservas -- mirar ejemplo moodle MenuCreator -- usando los 3 tipos de reservas(infantil, familiar, adulto)
+-Dos clases para reserva individual y reserva bono
+  *Individual: extends CreadorReservas
+  *Bono: extends CreadorReservas
