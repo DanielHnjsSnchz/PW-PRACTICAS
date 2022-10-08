@@ -1,0 +1,5 @@
+usuarios=usuarios.txt
+pistasDisponibles=pistasDisponibles.txt
+pistasNoDisponibles=pistasNoDisponibles.txt
+karts=karts.txt
+reservas=reservas.txt
