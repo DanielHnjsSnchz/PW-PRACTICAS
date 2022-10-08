@@ -1,7 +1,7 @@
 	Programación Web - Práctica 1
 
-Daniel Hinojosa Sánchez - 
-Martín Del Río Jiménez - @i02rijim@uco.es
+Daniel Hinojosa Sánchez - i02hisad@uco.es
+Martín Del Río Jiménez - i02rijim@uco.es
 Juan Antonio  Gálvez Jiménez - i02gajia@uco.es
 Marta Rubio Sánchez - i82rusam@uco.es
 Miguel Castro Martín - i82casmm@uco.es
