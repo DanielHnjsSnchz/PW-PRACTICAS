@@ -31,15 +31,23 @@ public abstract class Reserva {
 	}
 	
 	/**
-	 * Obtiene identificador del usuario que reserva.
+	 * Establece identificador del usuario que reserva.
 	 *
-	 * @return idReservaUsuario Cadena de texto con el identificador del usuario que reserva.
+	 * @param usuario Instancia de la clase usuario.
 	 */
-    public String getIdReservaUsuario() {
-		return this.idReservaUsuario;
+	public void setIdReservaUsuario(Usuario usuario) {
+		this.idReservaUsuario = usuario.getCorreo();
+	}
+	/**
+	 * Establece identificador del usuario que reserva.
+	 *
+	 * @param idReservaUsuario Cadena de texto con el identificador del usuario que reserva.
+	 */
+	public void setIdReservaUsuario(String idReservaUsuario) {
+		this.idReservaUsuario = idReservaUsuario;
 	}
     
-    /**
+   	 /**
 	 * Establece identificador del usuario que reserva.
 	 *
 	 * @param usuario Cadena de texto con el identificador del usuario que reserva.
