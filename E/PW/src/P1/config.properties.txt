@@ -1,7 +1,0 @@
-usuarios=usuarios.txt
-pistasDisponibles=pistasDisponibles.txt
-pistasNoDisponibles=pistasNoDisponibles.txt
-karts=karts.txt
-reservaAdulto=reservaAdulto.txt
-reservaInfantil=reservaInfantil.txt
-reservaFamiliar=reservaFamiliar.txt
